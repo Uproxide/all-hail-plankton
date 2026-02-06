@@ -21,5 +21,9 @@
 		"sprites": [
 			"resources/sprites/*.png"
 		]
+	},
+	"links": {
+		"community": "https://discord.gg/uproxide-s-little-land-1204580412299542608",
+		"source": "https://github.com/uproxide/all-hail-plankton"
 	}
 }
